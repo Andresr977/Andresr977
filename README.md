@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Andresr977
+- 👀 I’m interested in learn code
+- 🌱 I’m currently learning JavaScript, Python, C++ and more...
+- 💞️ I’m looking to collaborate on projects
+- 📫 thedeathstar977@gmail.com
